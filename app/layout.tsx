@@ -24,7 +24,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <ClerkProvider
-        appearance={{
+        appearance={{ 
           layout: {
             socialButtonsVariant: "iconButton",
             logoImageUrl: "/icons/yoom-logo.svg",
